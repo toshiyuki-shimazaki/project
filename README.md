@@ -3,6 +3,13 @@
 こういうのを作りたいです。
 https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 
+# 記述してほしいこと
+- プログラムの概要
+- 使い方（スクショ画像含める）
+- 工夫した点
+- 参考にしたサイトがあれば記載
+- 
+
 # 参考
 https://learningift.com/blogs/06d6kcV21i9/github%E3%81%AEreadme%E3%82%92markdown%E8%A8%98%E6%B3%95%E3%81%A7%E6%9B%B8%E3%81%8F
 
@@ -57,10 +64,8 @@ This is ~~strikethrough~~ text.
 >> 引用の中で引用
 
 ### リンク画像
-[リンクのテキスト](URL)でリンクを作成できます。
-
-[リンク](https://www.shirayuri.ac.jp/index.html)
-
+![リンクのテキスト](URL)でリンクを作成できます。
+![リンク](https://www.shirayuri.ac.jp/index.html)
 
 ### テーブル
 カラムA | カラムB | カラムC
