@@ -10,7 +10,7 @@ https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 事前に下記のフォルダを作ってください。
 
 ### コードブロック
-```でコードブロックを作成できます。
+```と```で囲うことでコードブロックを作成できます。
 また、言語の種類を指定することもできます。
 
 ```python
