@@ -4,11 +4,13 @@
 https://github.com/UTokyo-IPP/utokyo-ipp.github.io/blob/master/README.md
 
 # 記述してほしいこと
+- テーマ名
 - プログラムの概要
-- 使い方（スクショ画像含める）
+- 動作環境 / 必要条件（Requirements）
+- 使い方
 - 工夫した点
 - 参考にしたサイトがあれば記載
-- 
+- 作者名
 
 # 参考
 https://learningift.com/blogs/06d6kcV21i9/github%E3%81%AEreadme%E3%82%92markdown%E8%A8%98%E6%B3%95%E3%81%A7%E6%9B%B8%E3%81%8F
@@ -62,10 +64,6 @@ This is ~~strikethrough~~ text.
 
 > 引用
 >> 引用の中で引用
-
-### リンク画像
-![リンクのテキスト](URL)でリンクを作成できます。
-![リンク](https://ea-data-prd.s3-ap-northeast-1.amazonaws.com/shirayuri/images/logo/logo_tp_20211012151657.jpeg)
 
 ### テーブル
 カラムA | カラムB | カラムC
