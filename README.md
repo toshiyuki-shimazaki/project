@@ -65,7 +65,7 @@ This is ~~strikethrough~~ text.
 
 ### リンク画像
 ![リンクのテキスト](URL)でリンクを作成できます。
-![リンク](https://www.shirayuri.ac.jp/usftro0000002e7p-img/shirayuri.jpg)
+![リンク](https://ea-data-prd.s3-ap-northeast-1.amazonaws.com/shirayuri/images/logo/logo_tp_20211012151657.jpeg)
 
 ### テーブル
 カラムA | カラムB | カラムC
